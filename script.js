@@ -2,7 +2,7 @@
 function fn() {
    let el = document.getElementsByTagName('p');
    for (el of el) {
-      el.innerHTML = 'А ни чо!';
+      el.innerHTML = 'Иди на хуй!';
       el.style.color = 'purple';
       el.style.margin = '0 auto';
       el.style.fontSize = '70px';
